@@ -1,0 +1,18 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "time",
+        "y",
+        "x"
+    ],
+    "cell_measures": "area: areacella",
+    "cell_methods": "area: time: mean",
+    "coordinates": "spatial_ref",
+    "description": "at surface; includes both liquid and solid phases from all types of clouds (both large-scale and convective)",
+    "history": "none",
+    "interval_operation": "900 s",
+    "interval_write": "1 month",
+    "long_name": "Precipitation",
+    "online_operation": "average",
+    "standard_name": "precipitation_flux",
+    "units": "kg m-2 s-1"
+}
