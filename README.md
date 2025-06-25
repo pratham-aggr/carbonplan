@@ -2,7 +2,7 @@
 
 ```bash
 # Clone the repository
-https://github.com/pratham-aggr/carbonplan.git
+git clone https://github.com/pratham-aggr/carbonplan.git
 cd carbonplan
 
 # Install backend dependencies
