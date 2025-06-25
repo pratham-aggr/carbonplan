@@ -2,7 +2,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+https://github.com/pratham-aggr/carbonplan.git
 cd carbonplan
 
 # Install backend dependencies
@@ -12,7 +12,7 @@ or pip
 # Start the FastAPI backend
 uvicorn main:app --reload
 
-Open a new terminal for the frontend:
+#Open a new terminal for the frontend:
 
 # Install and start the frontend
 npm install
