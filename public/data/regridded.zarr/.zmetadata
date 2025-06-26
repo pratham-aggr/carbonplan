@@ -29,13 +29,13 @@
                             }
                         },
                         "method": "pyramid_regrid",
-                        "version": "0.4.0"
+                        "version": "0.4.0.post4+g7b88fcd"
                     },
                     "type": "reduce"
                 }
             ],
             "title": "multiscale data pyramid",
-            "version": "0.4.0"
+            "version": "0.4.0.post4+g7b88fcd"
         },
         ".zgroup": {
             "zarr_format": 2
@@ -91,7 +91,7 @@
                             }
                         },
                         "method": "pyramid_regrid",
-                        "version": "0.4.0"
+                        "version": "0.4.0.post4+g7b88fcd"
                     },
                     "type": "reduce"
                 }
@@ -314,7 +314,7 @@
                             }
                         },
                         "method": "pyramid_regrid",
-                        "version": "0.4.0"
+                        "version": "0.4.0.post4+g7b88fcd"
                     },
                     "type": "reduce"
                 }
